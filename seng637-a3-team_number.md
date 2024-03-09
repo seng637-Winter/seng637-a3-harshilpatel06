@@ -175,13 +175,7 @@ We also experimented with **Codecover**, anticipating it would furnish the compr
 We tried employing **Clover**, along with its open-source counterpart **OpenClover**, as our third tool. Unfortunately, we encountered technical obstacles that prevented us from achieving success with these solutions.
 
 
-# 6 Pros and Cons of coverage tools used and Metrics you report
 
-Text…
-
-# 7 A comparison on the advantages and disadvantages of requirements-based test generation and coverage-based test generation.
-
-Text…
 
 # 8 A discussion on how the team work/effort was divided and managed
 
