@@ -52,42 +52,42 @@ The following test case assesses a `Range` type object to check for the presence
 
 # 6 A detailed report of the coverage achieved of each class and method
 
-### Range and DataUtilities Coverage - Before
+### Range and DataUtilities Coverage --before
 
 
-- Line Coverage
+- line_Coverage
 
 
 <img src="media/JFreeChartLineCoverageBefore.PNG" alt="JFreeChart Line Coverage Before" />
 
 
-- Branch Coverage
+- Branch_Coverage
 
 
 <img src="media/JFreeChartBranchCoverageBefore.PNG" alt="JFreeChart Branch Coverage Before" />
 
 
-- Method Coverage
+- method_coverage
 
 <img src="media/JFreeChartMethodCoverageBefore.PNG" alt="JFreeChart Method Coverage Before" />
 
 
-### Range Coverage - After
+### range coverage --- after
 
 
-- Line Coverage
+- line_coverage
 
 
 <img src="media/RangeLineCoverageAfter.PNG" alt="Range Line Coverage After" />
 
 
-- Branch Coverage
+- branch_coverage
 
 
 <img src="media/RangeBranchCoverageAfter.PNG" alt="Range Branch Coverage After" />
 
 
-- Condition/Method Coverage
+- condition/method coverage
 
 
 <img src="media/RangeMethodCoverageAfter.PNG" alt="Range Method Coverage After" />
@@ -96,25 +96,25 @@ The following test case assesses a `Range` type object to check for the presence
 ###    dataUtilities_Coverage ---after
 
 
-- line coverage
+- line_coverage
 
 
 <img src="media/DataUtilitiesLineCoverageAfter.PNG" alt="DataUtilities Line Coverage After" />
 
 
-- branch coverage
+- branch_coverage
 
 
 <img src="media/DataUtilitiesBranchCoverageAfter.PNG" alt="DataUtilities Branch Coverage After" />
 
 
-- condition/Method coverage
+- condition/Method_coverage
 
 
 <img src="media/DataUtilitiesMethodCoverageAfter.PNG" alt="DataUtilities Method Coverage After" />
 
 
-### range and dataUtilities coverage - discussion
+### range and dataUtilities coverage -- discussion
 
 
 Our understanding of the task was initially centered on achieving comprehensive coverage across the class prior to receiving further details post-Reading Week. Initially, our objective was to attain coverage for the entire class and halt once this was achieved. Specifically, we reached line coverage ranging from 41.2% to 96.7% before and after, branch coverage from 31.5% to 92.7%, and method coverage from 56.5% to 95.8% for the `Range` class overall.
